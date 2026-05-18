@@ -1,13 +1,3 @@
-<div align="center">
-
-# Hi, I'm Matteo 👋
-
-### Full Stack Developer | C#/.NET Engineer | API Builder
-
-Passionate software developer focused on backend engineering, scalable APIs, automation, cybersecurity, and modern application development.
-
----
-
 <table align="center" width="80%">
   <tr>
     <td align="center">
@@ -21,15 +11,7 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 ⚙ REST APIs / Git / GitHub  
 🎮 Gamer & Tech Enthusiast  
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 <pre>
  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
@@ -51,15 +33,7 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 > hacker aesthetic enabled...
 </pre>
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## 🎮 PLAYER PROFILE
 
@@ -73,15 +47,7 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 ╚══════════════════════════════════════════════╝
 </pre>
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## ⚔ SKILLS
 
@@ -96,15 +62,7 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 [███████   ] Guitar / Music
 </pre>
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## 🎧 NOW PLAYING
 
@@ -112,15 +70,7 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 ♪ Metal debugging soundtrack  
 ♪ Synthwave + midnight commits  
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## 🧠 CURRENT QUESTS
 
@@ -131,15 +81,7 @@ Leveling up software architecture
 Shipping real projects  
 Defeating production bugs  
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## 💻 TERMINAL STATUS
 
@@ -154,15 +96,7 @@ matteo@ghost-machine:~$ uptime
 Late night
 </pre>
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## 🕹 FEATURED REPOS
 
@@ -172,15 +106,7 @@ Late night
 > LezioneJWT  
 > Python-Security-Tools  
 
-    </td>
-  </tr>
-</table>
-
 <br/>
-
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
 
 ## FINAL FORM
 
@@ -208,5 +134,3 @@ while(alive)
     </td>
   </tr>
 </table>
-
-</div>
