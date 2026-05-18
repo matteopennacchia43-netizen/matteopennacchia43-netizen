@@ -1,19 +1,37 @@
-<td align="center" width="70%">
+<div align="center">
+
 # Hi, I'm Matteo 👋
 
-## Full Stack Developer | C#/.NET Engineer | API Builder
+### Full Stack Developer | C#/.NET Engineer | API Builder
 
 Passionate software developer focused on backend engineering, scalable APIs, automation, cybersecurity, and modern application development.
 
-### Tech Stack
+---
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
+
+## Tech Stack
+
 💻 C# / .NET / ASP.NET Core  
 🗄 SQL Server / Entity Framework  
 🐍 Python  
 🔐 Cybersecurity & Security Tools  
 ⚙ REST APIs / Git / GitHub  
-🎮 Gamer & Tech Enthusiast
+🎮 Gamer & Tech Enthusiast  
 
-```text
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
+
+<pre>
  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
 ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
 ██║  ███╗███████║██║   ██║███████╗   ██║
@@ -22,20 +40,30 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
 
     G H O S T   M O D E   A C T I V E D
-```
+</pre>
 
-# 👻 Matteo.exe
+👻 **Matteo.exe**
 
-```text
+<pre>
 > booting developer profile...
 > loading caffeine...
 > initializing creativity...
 > hacker aesthetic enabled...
-```
+</pre>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## 🎮 PLAYER PROFILE
 
-```text
+<pre>
 ╔══════════════════════════════════════════════╗
 ║ CLASS      :: Full Stack Developer          ║
 ║ BUILD      :: C# / .NET Engineer            ║
@@ -43,11 +71,21 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 ║ ALIGNMENT  :: Chaotic Productive            ║
 ║ STATUS     :: Debugging Reality             ║
 ╚══════════════════════════════════════════════╝
-```
+</pre>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## ⚔ SKILLS
 
-```text
+<pre>
 [██████████] C#
 [█████████ ] ASP.NET Core
 [████████  ] SQL Server
@@ -56,28 +94,56 @@ Passionate software developer focused on backend engineering, scalable APIs, aut
 [██████    ] Cybersecurity
 [█████████ ] Gaming
 [███████   ] Guitar / Music
-```
+</pre>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## 🎧 NOW PLAYING
 
-```text
-♪ Lo-fi coding beats
-♪ Metal debugging soundtrack
-♪ Synthwave + midnight commits
-```
+♪ Lo-fi coding beats  
+♪ Metal debugging soundtrack  
+♪ Synthwave + midnight commits  
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## 🧠 CURRENT QUESTS
 
-- Building backend systems
-- Creating APIs
-- Security experiments
-- Leveling up software architecture
-- Shipping real projects
-- Defeating production bugs
+Building backend systems  
+Creating APIs  
+Security experiments  
+Leveling up software architecture  
+Shipping real projects  
+Defeating production bugs  
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## 💻 TERMINAL STATUS
 
-```bash
+<pre>
 matteo@ghost-machine:~$ whoami
 Full Stack Developer
 
@@ -86,21 +152,39 @@ coding + gaming + music
 
 matteo@ghost-machine:~$ uptime
 Late night
-```
+</pre>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## 🕹 FEATURED REPOS
 
-```text
-> SQL_SERVER
-> ConsumaApiEsterna
-> ERP-Aziendale
-> LezioneJWT
-> Python-Security-Tools
-```
+> SQL_SERVER  
+> ConsumaApiEsterna  
+> ERP-Aziendale  
+> LezioneJWT  
+> Python-Security-Tools  
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
 ## FINAL FORM
 
-```text
+<pre>
       🎸 MUSICIAN
          ╲
           ╲
@@ -108,9 +192,9 @@ Late night
           ╱
          ╱
       🎮 GAMER
-```
+</pre>
 
-```text
+<pre>
 while(alive)
 {
    Code();
@@ -119,8 +203,10 @@ while(alive)
    Learn();
    Repeat();
 }
-```
-   </td>
+</pre>
+
+    </td>
   </tr>
 </table>
-</td>
+
+</div>
