@@ -1,4 +1,4 @@
-<table align="center" width="80%">
+<table align="center" width="95%">
   <tr>
     <td align="center">
 
