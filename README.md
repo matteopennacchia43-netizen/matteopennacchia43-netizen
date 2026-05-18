@@ -1,6 +1,4 @@
-<table align="center" width="95%">
-  <tr>
-    <td align="center">
+<div align="center">
 
 ## Tech Stack
 
@@ -11,7 +9,7 @@
 ⚙ REST APIs / Git / GitHub  
 🎮 Gamer & Tech Enthusiast  
 
-<br/>
+<br><br>
 
 <pre>
  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
@@ -33,8 +31,6 @@
 > hacker aesthetic enabled...
 </pre>
 
-<br/>
-
 ## 🎮 PLAYER PROFILE
 
 <pre>
@@ -46,8 +42,6 @@
 ║ STATUS     :: Debugging Reality             ║
 ╚══════════════════════════════════════════════╝
 </pre>
-
-<br/>
 
 ## ⚔ SKILLS
 
@@ -62,15 +56,11 @@
 [███████   ] Guitar / Music
 </pre>
 
-<br/>
-
 ## 🎧 NOW PLAYING
 
 ♪ Lo-fi coding beats  
 ♪ Metal debugging soundtrack  
 ♪ Synthwave + midnight commits  
-
-<br/>
 
 ## 🧠 CURRENT QUESTS
 
@@ -80,8 +70,6 @@ Security experiments
 Leveling up software architecture  
 Shipping real projects  
 Defeating production bugs  
-
-<br/>
 
 ## 💻 TERMINAL STATUS
 
@@ -96,17 +84,9 @@ matteo@ghost-machine:~$ uptime
 Late night
 </pre>
 
-<br/>
-
 ## 🕹 FEATURED REPOS
 
-> SQL_SERVER  
-> ConsumaApiEsterna  
-> ERP-Aziendale  
-> LezioneJWT  
-> Python-Security-Tools  
-
-<br/>
+SQL_SERVER • ConsumaApiEsterna • ERP-Aziendale • LezioneJWT • Python-Security-Tools
 
 ## FINAL FORM
 
@@ -131,6 +111,4 @@ while(alive)
 }
 </pre>
 
-    </td>
-  </tr>
-</table>
+</div>
