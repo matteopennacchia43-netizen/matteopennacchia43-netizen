@@ -1,4 +1,6 @@
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="70%">
 # Hi, I'm Matteo 👋
 
 ## Full Stack Developer | C#/.NET Engineer | API Builder
@@ -120,4 +122,6 @@ while(alive)
    Repeat();
 }
 ```
-</div>
+   </td>
+  </tr>
+</table>
