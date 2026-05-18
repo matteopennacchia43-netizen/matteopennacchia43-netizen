@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/purple_ascii_terminal_banner.svg" width="100%" alt="Purple ASCII terminal banner" />
+
 
 <br/>
 
