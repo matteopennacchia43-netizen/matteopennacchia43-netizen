@@ -1,195 +1,239 @@
 <div align="center">
 
-# Hi, I'm Matteo 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:00ff9c,70:7f00ff,100:000000&height=210&section=header&text=MATTEO.EXE&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
-### Full Stack Developer | C#/.NET Engineer | API Builder
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2300&pause=650&color=00FF9C&center=true&vCenter=true&width=900&lines=GHOST+MODE+ACTIVATED;FULL+STACK+.NET+DEVELOPER;BACKEND+ENGINEER+%7C+API+BUILDER;2D+INTERFACE+%2B+3D+ENERGY;SYSTEM+ONLINE" />
+
+<br/>
+
+<pre>
+╭────────────────────────────────────────────────────────────╮
+│  IDENTITY  :: Matteo                                       │
+│  ROLE      :: Full Stack Developer                         │
+│  CORE      :: C# / .NET / SQL Server / REST APIs            │
+│  SIDE FX   :: Gaming • Guitar • Cybersecurity • Automation │
+╰────────────────────────────────────────────────────────────╯
+</pre>
+
+### `Backend systems. Clean APIs. Night-code energy.`
 
 Passionate software developer focused on backend engineering, scalable APIs, automation, cybersecurity, and modern application development.
 
 <br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=500&color=7F00FF&center=true&vCenter=true&width=760&lines=%3E+loading+Matteo.exe;%3E+connecting+SQL+Server;%3E+compiling+.NET+modules;%3E+rendering+ASCII+interface;%3E+access+granted" />
 
-## ASCII COLOR MODE
-
-> Neon profile version: cyber, animated, 2D/3D, terminal-flavored.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+MATTEO.EXE+ONLINE;%3E+GHOST+MODE+ACTIVE;%3E+2D+ASCII+BOOTING;%3E+3D+ASCII+RENDERING;%3E+BACKEND+SYSTEMS+READY" />
-
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                    🟢 MATTEO.EXE BOOT                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  > loading C# / .NET core modules                           ║
-║  > connecting SQL Server                                    ║
-║  > compiling REST API engines                               ║
-║  > enabling cybersecurity layer                             ║
-║  > rendering ASCII interface: 2D + 3D                       ║
-║  > status: ACCESS GRANTED                                   ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-
-<br/>
+</div>
 
 ---
 
-## 2D ASCII ANIMATION
+<div align="center">
+
+## ◇ SYSTEM DASHBOARD ◇
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧩 Developer Core
 
 <pre>
-FRAME 01                FRAME 02                FRAME 03
-
-   [ MATTEO ]              [ MATTEO ]              [ MATTEO ]
-      |                       /|\                     \|/
-   ---+---                 ---+---                 ---+---
-      |                       \|/                     /|\
-     / \                     / \                     / \
-
-   CODE READY           BUILD RUNNING          SYSTEM ONLINE
+┌──────────────────────────────┐
+│ MODE      │ Full Stack       │
+│ ENGINE    │ C# / .NET        │
+│ DATABASE  │ SQL Server       │
+│ OUTPUT    │ APIs + Projects  │
+└──────────────────────────────┘
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1400&pause=300&color=7F00FF&center=true&vCenter=true&width=850&lines=%5B%3D%3D%3E+++++++%5D+loading+2D+ascii;%5B%3D%3D%3D%3D%3E++++%5D+animating+frames;%5B%3D%3D%3D%3D%3D%3D%3E++%5D+syncing+terminal;%5B%3D%3D%3D%3D%3D%3D%3D%3D%5D+done" />
+</td>
+<td align="center" width="50%">
 
-<br/>
+### 👻 Ghost Layer
+
+<pre>
+┌──────────────────────────────┐
+│ STATUS    │ Online           │
+│ BUILD     │ Backend-focused  │
+│ ENERGY    │ Cyber / Gamer    │
+│ SIGNAL    │ Green + Violet   │
+└──────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 3D ASCII ART
+<div align="center">
+
+## ⚙ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,bootstrap,mysql,git,github,visualstudio,vscode" />
+
+<br/><br/>
 
 <pre>
-            __  __       _   _                  
-           |  \/  | __ _| |_| |_ ___  ___       
-           | |\/| |/ _` | __| __/ _ \/ _ \      
-           | |  | | (_| | |_| ||  __/ (_) |     
-           |_|  |_|\__,_|\__|\__\___|\___/      
-
-        +----------------------------------+
-       /                                  /|
-      /       G H O S T   M O D E        / |
-     +----------------------------------+  |
-     |  C#   .NET   SQL   API   CYBER   |  |
-     |                                  |  +
-     |        BACKEND ENGINE ONLINE      | /
-     |                                  |/
-     +----------------------------------+
+╔═══════════════════════╦══════════════════════════════╗
+║ BACKEND               ║ C# • .NET • ASP.NET Core     ║
+║ DATABASE              ║ SQL Server • Entity Framework║
+║ TOOLS                 ║ Git • GitHub • VS • VS Code  ║
+║ EXTRA                 ║ Python • Security Tools      ║
+╚═══════════════════════╩══════════════════════════════╝
 </pre>
 
-<br/>
+</div>
 
 ---
 
-## BLACK & WHITE MODE
+<div align="center">
 
-> Pure monochrome version: clean README, no neon, no external graphics.
-
-<pre>
-+============================================================+
-|                         MATTEO.EXE                         |
-+============================================================+
-| CLASS      : Full Stack Developer                          |
-| BUILD      : C# / .NET Engineer                            |
-| SUBCLASS   : Gamer / Musician / Coder                      |
-| DATABASE   : SQL Server                                    |
-| API MODE   : REST endpoints online                         |
-| SECURITY   : Cyber layer active                            |
-+============================================================+
-</pre>
+## ▣ 2D Interface Design
 
 <pre>
-        .------------------------------.
-       /                              /|
-      /        TERMINAL CORE          / |
-     .------------------------------.  |
-     |  > whoami                    |  |
-     |    full_stack_developer      |  |
-     |                              |  |
-     |  > stack                     |  |
-     |    C# + .NET + SQL + API     |  |
-     |                              |  /
-     |  > mode                      | /
-     |    code + gaming + music     |/
-     '------------------------------'
+┌────────────────────────────────────────────────────────────┐
+│  MATTEO@GHOST-MACHINE                                     │
+├────────────────────────────────────────────────────────────┤
+│  > whoami                  Full Stack Developer            │
+│  > current_stack           C# + .NET + SQL Server          │
+│  > active_module           API Builder                     │
+│  > security_layer          Enabled                         │
+│  > creative_runtime        Gaming + Music + Code           │
+└────────────────────────────────────────────────────────────┘
 </pre>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED;SYSTEM+ONLINE;BACKEND+READY;DATABASE+CONNECTED;API+ENDPOINTS+LOADED" />
+
+</div>
 
 ---
 
-## TECH STACK
+<div align="center">
 
-<pre>
-[##########] C#
-[######### ] ASP.NET Core
-[########  ] SQL Server
-[#######   ] Python
-[#######   ] REST APIs
-[######    ] Cybersecurity
-[######### ] Gaming
-[#######   ] Guitar / Music
-</pre>
+## ◈ 3D Design Feel
 
-<br/>
+<table>
+<tr>
+<td align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=matteopennacchia43-netizen&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## CURRENT QUESTS
+</td>
+<td align="center">
 
-<pre>
-> Build backend systems
-> Create APIs
-> Run security experiments
-> Level up software architecture
-> Ship real projects
-> Defeat production bugs
-</pre>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteopennacchia43-netizen&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matteopennacchia43-netizen&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## FEATURED REPOS
+<div align="center">
+
+## 🕹 Featured Repositories
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/matteopennacchia43-netizen/SQL_SERVER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteopennacchia43-netizen&repo=SQL_SERVER&theme=tokyonight" />
+</a>
+</td>
+<td>
+<a href="https://github.com/matteopennacchia43-netizen/ERP-Aziendale">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteopennacchia43-netizen&repo=ERP-Aziendale&theme=tokyonight" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/matteopennacchia43-netizen/Python-Security-Tools-master">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteopennacchia43-netizen&repo=Python-Security-Tools-master&theme=tokyonight" />
+</a>
+</td>
+<td align="center">
 
 <pre>
-SQL_SERVER
-ConsumaApiEsterna
-ERP-Aziendale
-LezioneJWT
-Python-Security-Tools
+┌──────────────────────────────┐
+│ MORE QUESTS                  │
+│ SQL_SERVER                   │
+│ ConsumaApiEsterna            │
+│ LezioneJWT                   │
+│ Python Security Tools        │
+└──────────────────────────────┘
 </pre>
 
-<br/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## FINAL FORM
+<div align="center">
 
-<pre>
-          MUSICIAN
-             |
-             |
-   GHOST ----+---- CODER
-             |
-             |
-            GAMER
-</pre>
+## 🎧 Current Mode
 
-<pre>
-while(alive)
-{
-   Code();
-   Play();
-   CreateMusic();
-   Learn();
-   Repeat();
-}
-</pre>
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎸 Musician
+`guitar riffs between builds`
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Coder
+`APIs, databases, backend logic`
+
+</td>
+<td align="center" width="33%">
+
+### 🎮 Gamer
+`debugging reality at night`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <pre>
-+------------------------------+
-|        SYSTEM COMPLETE       |
-|       GHOST MODE ACTIVE      |
-+------------------------------+
+╭────────────────────────────────────────────────────────────╮
+│ while(alive) { Code(); Play(); CreateMusic(); Learn(); }   │
+╰────────────────────────────────────────────────────────────╯
 </pre>
+
+</div>
+
+---
+
+<div align="center">
+
+## Black & White Friendly Section
+
+<pre>
++----------------------------------------------------------+
+| MATTEO.EXE                                               |
+| Full Stack Developer | C# / .NET Engineer | API Builder   |
+| Backend • SQL Server • REST APIs • Security • Automation |
++----------------------------------------------------------+
+</pre>
+
+This profile keeps the cyber style in color, but still reads cleanly in plain black and white.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00ff9c,100:000000&height=120&section=footer" />
 
 </div>
