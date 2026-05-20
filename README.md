@@ -9,22 +9,6 @@
 <br/>
 <br/>
 
-<pre>
-╭──────────────────────── AUDIO / DSP SIDE CHANNEL ────────────────────────╮
-│ I also explore small audio programming, DSP, and game audio experiments.  │
-│ This is a growing area of practice where I study how sound behaves inside │
-│ interactive systems, creative tools, and real-time applications.           │
-│                                                                           │
-│ My current focus includes basic synthesis, audio effects, sample playback, │
-│ real-time sound interaction, Unity-style game audio logic, and simple DSP  │
-│ concepts such as filters, gain, envelopes, oscillators, and signal flow.   │
-│                                                                           │
-│ I use these projects to build practical understanding of audio engines,    │
-│ interactive sound design, performance constraints, and clean technical     │
-│ implementation for games and creative software.                            │
-╰───────────────────────────────────────────────────────────────────────────╯
-</pre>
-
 <br/>
 <br/>
 
@@ -209,6 +193,22 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteopennacchia43-netizen&theme=midnight-purple&hide_border=true&background=050208&ring=9D4EDD&fire=C77DFF&currStreakLabel=DCCBFF" alt="GitHub streak" />
 
 <br/>
+<pre>
+╭──────────────────────── AUDIO / DSP SIDE CHANNEL ────────────────────────╮
+│ I also explore small audio programming, DSP, and game audio experiments.  │
+│ This is a growing area of practice where I study how sound behaves inside │
+│ interactive systems, creative tools, and real-time applications.           │
+│                                                                           │
+│ My current focus includes basic synthesis, audio effects, sample playback, │
+│ real-time sound interaction, Unity-style game audio logic, and simple DSP  │
+│ concepts such as filters, gain, envelopes, oscillators, and signal flow.   │
+│                                                                           │
+│ I use these projects to build practical understanding of audio engines,    │
+│ interactive sound design, performance constraints, and clean technical     │
+│ implementation for games and creative software.                            │
+╰───────────────────────────────────────────────────────────────────────────╯
+</pre>
+
 <br/>
 
 <h2>⚡ Currently Building</h2>
