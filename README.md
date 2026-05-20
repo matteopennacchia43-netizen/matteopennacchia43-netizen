@@ -7,7 +7,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=650&color=7B2CBF&center=true&vCenter=true&width=900&lines=%3E+purple-node+booting...;%3E+matteo.exe+loaded;%3E+C%23+.NET+API+engine+online;%3E+React+interface+rendering;%3E+SQL+brain+connected;%3E+deploy+ritual+armed" alt="Purple cyber typing animation" />
 
 <br/>
-My GitHub includes small projects and experiments in audio programming, DSP, and game programming, with a focus on real-time audio, sound interaction, synthesis, and creative technical tools. I use these projects to explore practical audio systems, improve my programming skills, and document my learning process.
+<br/>
+
+<pre>
+╭──────────────────────── AUDIO / DSP SIDE CHANNEL ────────────────────────╮
+│ I also explore small audio programming, DSP, and game audio experiments.  │
+│ This is a growing area of practice where I study how sound behaves inside │
+│ interactive systems, creative tools, and real-time applications.           │
+│                                                                           │
+│ My current focus includes basic synthesis, audio effects, sample playback, │
+│ real-time sound interaction, Unity-style game audio logic, and simple DSP  │
+│ concepts such as filters, gain, envelopes, oscillators, and signal flow.   │
+│                                                                           │
+│ I use these projects to build practical understanding of audio engines,    │
+│ interactive sound design, performance constraints, and clean technical     │
+│ implementation for games and creative software.                            │
+╰───────────────────────────────────────────────────────────────────────────╯
+</pre>
+
+<br/>
 <br/>
 
 <!-- ONE COLUMN CENTERED PROFILE -->
