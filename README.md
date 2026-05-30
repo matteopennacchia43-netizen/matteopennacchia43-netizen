@@ -6,7 +6,7 @@
 
 <pre>
 ┌──(matteo㉿violet-grid)-[~/fullstack/profile]
-└─$ ./boot-profile.sh --theme cyberpunk --shell bash
+└─$ ./boot-profile.sh --cyberpunk --shell bash
 
  ███╗   ███╗ █████╗ ████████╗████████╗███████╗ ██████╗
  ████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝██╔════╝██╔═══██╗
