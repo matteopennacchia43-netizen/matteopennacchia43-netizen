@@ -1,43 +1,30 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:C84BC6,45:9B5DE5,100:27113F&text=MATTEO%20PENNACCHIA&fontColor=FFFFFF&fontSize=34&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20C%23%20%2F%20.NET%20%E2%80%A2%20REACT%20%E2%80%A2%20CLOUD%20APIs&descAlignY=58&descSize=14&animation=fadeIn" alt="Matteo Pennacchia violet cyclamen header" />
 
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=650&color=7B2CBF&center=true&vCenter=true&width=900&lines=%3E+purple-node+booting...;%3E+matteo.exe+loaded;%3E+C%23+.NET+API+engine+online;%3E+React+interface+rendering;%3E+SQL+brain+connected;%3E+deploy+ritual+armed" alt="Purple cyber typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=C84BC6&center=true&vCenter=true&width=760&lines=%3E+MODE%3A+VIOLET+CYCLAMEN+DEV;%3E+STACK%3A+C%23+%7C+.NET+8+%7C+React+%7C+SQL+%7C+Cloud;%3E+SIGNAL%3A+Remote+%2F+Hybrid+EU+%7C%7C+API-first+engineering" alt="Violet cyclamen terminal typing animation" />
 
 <br/>
-<br/>
 
-<br/>
-<br/>
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET_8-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/React-C84BC6?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Docker](https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-<!-- ONE COLUMN CENTERED PROFILE -->
+</div>
 
-<pre>
-╭────────────────────────────────────────────────────────────────────────────╮
-│                         MODE: PURPLE CYBER DEV                             │
-│              STACK: C#/.NET + React + APIs + SQL + Cloud                   │
-│            SIGNAL: Remote / Hybrid EU  ::  DARK PIXEL STYLE                │
-╰────────────────────────────────────────────────────────────────────────────╯
-</pre>
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                        MODE : VIOLET CYCLAMEN DEV                            │
+│              STACK : C#/.NET  ·  React  ·  APIs  ·  SQL  ·  Cloud            │
+│             SIGNAL : Remote / Hybrid EU  ::  Precise Terminal UI              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
-<h1>Matteo Pennacchia</h1>
+## `matteo@violet-node:~/developer-profile`
 
-<h3>Full Stack Developer · C# / .NET · React · Cloud & API Engineering</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-2D0A4E?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-3B0B69?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-4B168C?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5A189A?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-240046?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-3C096C?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<pre>
-┌─[matteo@purple-node]─[~/developer-profile]
-└──╼ $ cat identity.json
+```json
 {
   "name": "Matteo Pennacchia",
   "role": "Full Stack Developer",
@@ -45,206 +32,162 @@
   "focus": ["REST APIs", "Database Design", "Secure Web Apps", "Cloud-ready Deployments"],
   "location": "Ferentino, Frosinone, Italy",
   "availability": "Remote / Hybrid across EU",
-  "theme": "black terminal + deep purple ASCII imaging"
+  "theme": "deep black terminal + violet cyclamen glow"
 }
-</pre>
+```
 
-<br/>
+<div align="center">
 
-<pre>
-╔════════════════════════════ CONTACT MATRIX ════════════════════════════╗
-║  📍 Italy / EU Remote                                                  ║
-║  ✉️  matteopennacchia43@gmail.com                                      ║
-║  🔗 linkedin.com/in/matteopennacchia                                  ║
-║  🐙 github.com/matteopennacchia43-netizen                             ║
-║  🌐 cybermassliturgyshopghostcathedral.com                            ║
-╚═════════════════════════════════════════════════════════════════════════╝
-</pre>
+[![Email](https://img.shields.io/badge/Email-matteopennacchia43%40gmail.com-C84BC6?style=flat-square&logo=gmail&logoColor=white)](mailto:matteopennacchia43@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-matteopennacchia43--netizen-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/matteopennacchia43-netizen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matteopennacchia-C84BC6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteopennacchia)
+[![Website](https://img.shields.io/badge/Web-ghostcathedral-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://cybermassliturgyshopghostcathedral.com)
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=9D4EDD&center=true&vCenter=true&width=760&lines=%3E+profile.scan();%3E+secure+web+apps+detected;%3E+clean+architecture+loaded;%3E+API-first+mindset+enabled;%3E+bugs+converted+into+lessons" alt="Terminal animation" />
+## `01 // Professional profile`
 
-<br/>
-<br/>
-
-<pre>
-╭──────────────────────────── PROFESSIONAL PROFILE ───────────────────────────╮
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
 │ I build secure, scalable, and maintainable web applications using C#,        │
 │ ASP.NET Core, React, TypeScript, REST APIs, and relational databases.         │
 │                                                                              │
-│ I work across the full software lifecycle: requirements, database design,     │
-│ backend services, frontend implementation, API integration, testing,          │
-│ deployment preparation, and production support.                              │
+│ I work across database design, backend services, frontend implementation,    │
+│ API integration, testing, deployment preparation, and production support.    │
 ╰──────────────────────────────────────────────────────────────────────────────╯
-</pre>
+```
 
-<br/>
+## `02 // System pipeline`
 
-<pre>
-╔════════════════════════════ CYBER PIPELINE ════════════════════════════╗
-║                                                                        ║
-║   React UI  ──►  ASP.NET Core API  ──►  EF Core  ──►  SQL / Redis      ║
-║      ▲                │                      │              │          ║
-║      │                ▼                      ▼              ▼          ║
-║   Forms         JWT / Roles              Logging        Deploy Prep     ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-</pre>
+```mermaid
+flowchart LR
+    A[React UI] --> B[ASP.NET Core API]
+    B --> C[EF Core]
+    C --> D[(SQL / Redis)]
+    A --> E[Forms]
+    B --> F[JWT / Roles]
+    C --> G[Logging]
+    D --> H[Deploy Prep]
 
-<br/>
+    classDef core fill:#27113F,stroke:#C84BC6,color:#FFFFFF,stroke-width:2px;
+    classDef accent fill:#321546,stroke:#9B5DE5,color:#FFFFFF,stroke-width:2px;
+    class A,B,C,D core;
+    class E,F,G,H accent;
+```
 
-<h2>🟣 Stack Modules</h2>
+## `03 // Stack modules`
 
-<pre>
-╭─ BACKEND CORE ─────────────────────────────────────────────────────────╮
-│ C# · .NET 8 · ASP.NET Core · Web API · MVC · EF Core · LINQ             │
-│ Dependency Injection · Middleware · Background Services · Swagger       │
-╰────────────────────────────────────────────────────────────────────────╯
+| Module | Toolkit |
+|:--|:--|
+| **Backend Core** | C# · .NET 8 · ASP.NET Core · Web API · MVC · EF Core · LINQ |
+| **Frontend Interface** | React · Next.js · TypeScript · JavaScript ES6+ · HTML5 · CSS3 · Tailwind CSS |
+| **Database & DevOps** | SQL Server · PostgreSQL · MySQL · MongoDB · Redis · Docker · GitHub Actions |
+| **Cloud & Delivery** | Azure · AWS · Docker Compose · API deployment preparation |
 
-╭─ FRONTEND INTERFACE ───────────────────────────────────────────────────╮
-│ React · Next.js · TypeScript · JavaScript ES6+ · HTML5 · CSS3          │
-│ Tailwind CSS · Responsive Design · Components · API Consumption         │
-╰────────────────────────────────────────────────────────────────────────╯
+## `04 // Engineering patterns`
 
-╭─ DATABASE + DEVOPS ────────────────────────────────────────────────────╮
-│ SQL Server · PostgreSQL · MySQL · MongoDB · Redis                      │
-│ Docker · Docker Compose · Git · GitHub Actions · Azure · AWS           │
-╰────────────────────────────────────────────────────────────────────────╯
-</pre>
+| System Design | Reliability Modules |
+|:--|:--|
+| Clean Architecture · MVC · Repository Pattern | JWT Authentication · Role-based Authorization |
+| Service Layer · SOLID · OOP · API-first | Swagger / OpenAPI · Postman API Testing |
+| Monoliths · Microservices basics | Error Handling · Logging · Unit / Integration Testing |
+| Refactoring · Clean code | Performance Tuning · Code Review |
 
-<br/>
+## `05 // Featured projects`
 
-<h2>🧬 Engineering Patterns</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<pre>
-╭──────────────────────────── SYSTEM DESIGN ─────────────────────────────╮
-│ Clean Architecture · MVC · Repository Pattern · Service Layer Pattern   │
-│ SOLID · OOP · API-first Development · Monoliths · Microservices basics  │
-╰────────────────────────────────────────────────────────────────────────╯
+### `E-COMMERCE WEB APP`
+**Stack:** ASP.NET Core Web API · EF Core · SQL Server  
+**UI:** React · TypeScript · Tailwind CSS  
+**Ops:** Docker  
 
-╭────────────────────────── RELIABILITY MODULES ─────────────────────────╮
-│ JWT Authentication · Role-based Authorization · Swagger / OpenAPI       │
-│ Error Handling · Logging · Unit Testing · Integration Testing           │
-│ Postman API Testing · Refactoring · Code Review · Performance Tuning    │
-╰────────────────────────────────────────────────────────────────────────╯
-</pre>
+`catalog` · `JWT auth` · `cart` · `checkout` · `orders` · `admin routes` · `pagination`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<h2>🛰 Featured Projects</h2>
+### `BOOKING / RESERVATION SYSTEM`
+**Stack:** ASP.NET Core · React · PostgreSQL  
+**Cache:** Redis concepts  
+**Ops:** Docker  
 
-<pre>
-╔════════════════════════════ E-COMMERCE WEB APP ════════════════════════╗
-║ STACK: ASP.NET Core Web API + EF Core + SQL Server                     ║
-║ UI:    React + TypeScript + Tailwind CSS                               ║
-║ OPS:   Docker                                                          ║
-║                                                                        ║
-║ Product catalog · JWT auth · cart · checkout · orders · admin routes    ║
-║ Relational schema · pagination · structured API responses               ║
-╚════════════════════════════════════════════════════════════════════════╝
-</pre>
+`reservations` · `availability logic` · `conflict prevention` · `admin dashboard`
 
-<pre>
-╔════════════════════════ BOOKING / RESERVATION SYSTEM ══════════════════╗
-║ STACK: ASP.NET Core + React + PostgreSQL                               ║
-║ CACHE: Redis concepts                                                  ║
-║ OPS:   Docker                                                          ║
-║                                                                        ║
-║ Reservation workflows · availability logic · conflict prevention        ║
-║ Admin dashboard · customers · dates · services · schedules              ║
-╚════════════════════════════════════════════════════════════════════════╝
-</pre>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<pre>
-╔════════════════════════ BUSINESS AUTOMATION DASHBOARD ═════════════════╗
-║ STACK: C# + .NET + SQL + React                                         ║
-║ CI/CD: GitHub Actions concepts                                         ║
-║                                                                        ║
-║ Scheduled processing · data transformation · reporting dashboard        ║
-║ Structured logging · operational records · automation workflows          ║
-╚════════════════════════════════════════════════════════════════════════╝
-</pre>
+### `BUSINESS AUTOMATION DASHBOARD`
+**Stack:** C# · .NET · SQL · React  
+**CI/CD:** GitHub Actions concepts  
 
-<pre>
-╔════════════════════════════ API INTEGRATION PLATFORM ══════════════════╗
-║ STACK: ASP.NET Core Web API + React + SQL Server                       ║
-║ TOOLS: Swagger + Postman                                               ║
-║                                                                        ║
-║ Third-party API integration · notifications · transaction workflows     ║
-║ Request validation · response formatting · secure configuration         ║
-╚════════════════════════════════════════════════════════════════════════╝
-</pre>
+`scheduled processing` · `reporting` · `structured logging` · `workflows`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<h2>📊 GitHub Signal</h2>
+### `API INTEGRATION PLATFORM`
+**Stack:** ASP.NET Core Web API · React · SQL Server  
+**Tools:** Swagger · Postman  
 
-<img src="https://github-readme-stats.vercel.app/api?username=matteopennacchia43-netizen&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=050208&title_color=9D4EDD&text_color=DCCBFF&icon_color=C77DFF" alt="GitHub stats" />
+`third-party APIs` · `notifications` · `validation` · `secure configuration`
 
-<br/>
-<br/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteopennacchia43-netizen&layout=compact&theme=midnight-purple&hide_border=true&bg_color=050208&title_color=9D4EDD&text_color=DCCBFF" alt="Top languages" />
+## `06 // GitHub signal`
 
-<br/>
-<br/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matteopennacchia43-netizen&theme=midnight-purple&hide_border=true&background=050208&ring=9D4EDD&fire=C77DFF&currStreakLabel=DCCBFF" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matteopennacchia43-netizen&show_icons=true&hide_border=true&bg_color=0D0816&title_color=C84BC6&icon_color=9B5DE5&text_color=E9D5FF" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteopennacchia43-netizen&layout=compact&hide_border=true&bg_color=0D0816&title_color=C84BC6&text_color=E9D5FF" alt="Most used languages" />
 
-<br/>
-<pre>
-╭──────────────────────── AUDIO / DSP SIDE CHANNEL ────────────────────────╮
-│ I also explore small audio programming, DSP, and game audio experiments.  │
-│ This is a growing area of practice where I study how sound behaves inside │
-│ interactive systems, creative tools, and real-time applications.           │
-│                                                                           │
-│ My current focus includes basic synthesis, audio effects, sample playback, │
-│ real-time sound interaction, Unity-style game audio logic, and simple DSP  │
-│ concepts such as filters, gain, envelopes, oscillators, and signal flow.   │
-│                                                                           │
-│ I use these projects to build practical understanding of audio engines,    │
-│ interactive sound design, performance constraints, and clean technical     │
-│ implementation for games and creative software.                            │
-╰───────────────────────────────────────────────────────────────────────────╯
-</pre>
+<img src="https://streak-stats.demolab.com?user=matteopennacchia43-netizen&hide_border=true&background=0D0816&ring=C84BC6&fire=9B5DE5&currStreakLabel=C84BC6&sideLabels=E9D5FF&dates=BFA7D4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
-<br/>
+</div>
 
-<h2>⚡ Currently Building</h2>
+## `07 // Audio / DSP side channel`
 
-<pre>
-╭────────────────────────── CURRENT QUEST LOG ──────────────────────────╮
-│ ▣ Building backend systems with ASP.NET Core                           │
-│ ▣ Creating clean REST APIs with Swagger documentation                   │
-│ ▣ Designing relational schemas and optimized queries                    │
-│ ▣ Developing React dashboards and frontend workflows                    │
-│ ▣ Learning deeper cloud deployment and CI/CD practices                  │
-│ ▣ Turning bugs into small defeated goblins of logic                     │
-╰────────────────────────────────────────────────────────────────────────╯
-</pre>
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ I explore audio programming, DSP, and game-audio experiments: synthesis,     │
+│ effects, sample playback, real-time interaction, filters, gain, envelopes,   │
+│ oscillators, signal flow, and practical performance constraints.              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
-<br/>
+## `08 // Currently building`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=C77DFF&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;API+BUILDER;DEBUG+WIZARD;PURPLE+TERMINAL+GLOW;SHIP-READY+CODE" alt="Final typing animation" />
+```text
+┌─[current-quest-log]──────────────────────────────────────────────────────────┐
+│ ▣ Backend systems with ASP.NET Core                                          │
+│ ▣ Clean REST APIs documented with Swagger                                   │
+│ ▣ Relational schemas and optimized queries                                  │
+│ ▣ React dashboards and frontend workflows                                   │
+│ ▣ Deeper cloud deployment and CI/CD practice                                │
+│ ▣ Audio / DSP experiments for creative software                             │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-<br/>
-<br/>
+<div align="center">
 
-<pre>
-╔════════════════════════════════ FINAL FORM ═════════════════════════════╗
-║                                                                        ║
-║   FULL STACK DEVELOPER  │  API BUILDER  │  DEBUG WIZARD                ║
-║                                                                        ║
-║   C#/.NET backend       React frontend       SQL brain                  ║
-║   Docker containers     Cloud curiosity      Git rituals                ║
-║   Purple terminal glow  Nerd mode active     Ship-ready                 ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-</pre>
+```text
+╔══════════════════════════════════ FINAL FORM ════════════════════════════════╗
+║                                                                              ║
+║        FULL STACK DEVELOPER  │  API BUILDER  │  DEBUG ENGINEER               ║
+║                                                                              ║
+║        C#/.NET backend       React frontend       SQL architecture            ║
+║        Docker delivery       Cloud learning       Git discipline             ║
+║        Violet-cyclamen glow  Audio experiments    Ship-ready mindset         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050208,35:240046,70:5A189A,100:10002B&height=120&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:27113F,55:9B5DE5,100:C84BC6" alt="Violet cyclamen footer" />
 
 </div>
